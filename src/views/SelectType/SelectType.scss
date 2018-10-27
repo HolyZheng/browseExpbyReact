@@ -1,0 +1,48 @@
+@import '../../style/common.scss';
+.st-header {
+  height: 4.2rem;
+  text-align: center;
+  background-color: $theme-color;
+  font-size: 1.6rem;
+  color: #fff;
+  margin-bottom: 2rem;
+  span {
+    line-height: 4.2rem;
+  }
+}
+.type-item {
+  display: block;
+  width: 90%;
+  margin: 1.6rem auto;
+  height: 5rem;
+  line-height: 5rem;
+  text-align: center;
+  border-radius: 0.6rem;
+  position: relative;
+  font-size: 1.6rem;
+  @include shadow;
+  &.one {
+    background-color: $exp-one;
+  }
+  &.two {
+    background-color: $exp-two;
+  }
+  &.three {
+    background-color: $exp-three;
+  }
+  &.four {
+    background-color: $exp-four;
+  }
+  &.five {
+    background-color: $exp-five;
+  }
+  &.other {
+    border: 0.2rem solid #eee;
+  }
+  .icon {
+    width: 2.2rem;
+    @include left-top(0.6rem, 50%);
+    transform: translateY(-80%);
+  }
+
+}

@@ -1,0 +1,18 @@
+@import '../../style/common.scss';
+.sp-header {
+  height: 4.2rem;
+  text-align: center;
+  background-color: $theme-color;
+  font-size: 1.6rem;
+  color: #fff;
+  span {
+    line-height: 4.2rem;
+  }
+}
+.no-res {
+  padding-top: 4.6rem;
+  font-size: 1.4rem;
+  line-height: 1.8rem;
+  text-align: center;
+  color: rgb(145, 145, 145);
+}

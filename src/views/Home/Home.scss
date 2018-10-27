@@ -1,0 +1,48 @@
+@import '../../style/common.scss';
+.home-header {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  height: 5.4rem;
+  padding-top: 1rem;
+  background-color: $theme-color;
+  text-align: center;
+  font-size: 1.6rem;
+  color: #fff;
+  margin-bottom: 0;
+}
+.below-header {
+  height: 4.6rem;
+  background-color: $theme-color;
+  @include shadow;
+}
+.home-nav {
+  height: 10rem;
+  @include fja(space-around);
+  .to-type, .to-exp {
+    width: 40%;
+    height: 6rem;
+    border-radius: 0.6rem;
+    font-size: 1.8rem;
+    @include fja(flex-start);
+    @include shadow;
+  }
+  .to-type {
+    background-color: #B7E8DF;
+  }
+  .to-exp {
+    background-color: #A3ADE8
+  }
+}
+.sec-title {
+  @include fja(flex-start);
+  strong {
+    font-size: 1.6rem;
+    margin-left: 2rem;
+  }
+  img {
+    width: 4rem;
+    height: 3rem;
+    @include to-rotate(-90deg)
+  }
+}
