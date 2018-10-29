@@ -31,9 +31,11 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "path": "^0.12.7",
     "react-app-rewire-typescript": "^2.0.2",
     "react-app-rewired": "^1.6.2",
     "ts-loader": "^5.2.2",
-    "typescript": "^3.1.3"
+    "typescript": "^3.1.3",
+    "workbox-webpack-plugin": "^3.6.3"
   }
 }
