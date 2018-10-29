@@ -7,6 +7,7 @@ typescript与react开发的预览实验的pwa，实践练手目的引入了react
 3. 搞事情
 
 效果：
+
 ![bereactshow](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/browse-exp-react.gif)
 
 ![addToScreen](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/addToScreen.png)
