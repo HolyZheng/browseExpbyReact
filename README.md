@@ -11,3 +11,10 @@ typescript与react开发的预览实验的pwa，实践练手目的引入了react
 ![bereactshow](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/browse-exp-react.gif)
 
 ![addToScreen](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/addToScreen.png)
+
+体验项目：
+
+![qrcode](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/bereactvrcode.png)
+
+例外还有基于vue实现的相同项目，感兴趣可对比查看：
+[browseExpByVue](https://github.com/HolyZheng/BrowseExp)
