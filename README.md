@@ -20,9 +20,13 @@ typescript与react开发的预览实验的pwa，实践练手目的引入了react
 
 ![addToScreen](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/addToScreen.png)
 
-体验项目：
+二维码体验项目：
+> note: 
+> 1. 建议用uc浏览器打开，因为uc浏览器对pwa的支持较好。
+> 2. "添加到桌面的提示" 需要短时间多次进入web app 才会触发
 
-![qrcode](https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/bereactvrcode.png)
+![qrcode](https://user-gold-cdn.xitu.io/2018/10/29/166c062f68fcec88?w=299&h=292&f=png&s=14209)
 
-例外还有基于vue实现的相同项目，感兴趣可对比查看：
-[browseExpByVue](https://github.com/HolyZheng/BrowseExp)
+项目地址：[browseExpByReact](https://github.com/HolyZheng/browseExpbyReact)
+
+如果感兴趣，可以对比着基于vue的实现来看: [browseExpByVue](https://github.com/HolyZheng/BrowseExp)
