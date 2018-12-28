@@ -7,7 +7,7 @@ typescript与react开发的预览实验的pwa，实践练手目的引入了react
 
 [记一次基于react、cra2、typescript的pwa项目由开发到部署（二）](https://juejin.im/post/5bd827716fb9a05d212ee743)
 
-记一次基于react、cra2、typescript的pwa项目由开发到部署（三）---- 待写
+[记一次基于react、cra2、typescript的pwa项目由开发到部署（三）](https://juejin.im/post/5c21a3f4e51d453634701952)
 
 为什么做这个项目？
 1. cra2开始支持pwa
